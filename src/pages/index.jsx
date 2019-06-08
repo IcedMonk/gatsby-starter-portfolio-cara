@@ -77,7 +77,6 @@ const Index = () => (
           >
             This project is my entry to Adobe's #ChallengeYourPerspective contest.
           </ProjectCard>
-          <ProjectsWrapper>
           <ProjectCard
             title="Freiheit"
             link="https://www.behance.net/gallery/58937147/Freiheit"
