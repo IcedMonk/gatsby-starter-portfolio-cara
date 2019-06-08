@@ -72,7 +72,7 @@ const Index = () => (
         <ProjectsWrapper>
           <ProjectCard
             title="Hachiko Kitchen"
-            link="#"
+            link="http://hachikokitchen.com/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
             This project is currently in the Development stage.
