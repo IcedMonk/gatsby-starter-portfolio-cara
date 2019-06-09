@@ -79,7 +79,7 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="CodeSnatcher"
-            link="https://www.codesnatchers.com/"
+            link="https://codesnatchers.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             This is the Blog site of mine, where I share my knowledge with the world.
