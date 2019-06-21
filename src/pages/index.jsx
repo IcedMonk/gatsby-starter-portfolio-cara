@@ -85,13 +85,6 @@ const Index = () => (
             This is the Blog site of mine, where I share my knowledge with the world.
           </ProjectCard>
           <ProjectCard
-            title="GeekForGeekz"
-            link="https://www.geekforgeekz.com/"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
-          >
-            This is my wordpress blog where Me and my small team members share the present conditions going on in tech industry.
-          </ProjectCard>
-          <ProjectCard
             title="Free Course's from Udemy"
             link="https://www.allfreecourse.com/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
